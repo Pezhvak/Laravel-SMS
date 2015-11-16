@@ -1,5 +1,5 @@
 {
-    "name": "Pezhvak/Laravel-SMS",
+    "name": "pezhvak/laravel-sms",
     "keywords": ["laravel", "sms", "iran"],
     "description": "Laravel SMS Service Provider",
     "license": "MIT",
