@@ -1,5 +1,5 @@
 <?php
-namespace App\Classes\SMS\Contracts;
+namespace Pezhvak\SMS;
 
 interface SMS{
 

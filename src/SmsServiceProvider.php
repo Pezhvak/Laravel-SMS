@@ -1,5 +1,5 @@
 <?php
-namespace App\Classes\SMS;
+namespace Pezhvak\SMS;
 
 use Illuminate\Support\ServiceProvider;
 
