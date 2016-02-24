@@ -1,4 +1,6 @@
 # Laravel-SMS
+
+[![Join the chat at https://gitter.im/Pezhvak/Laravel-SMS](https://badges.gitter.im/Pezhvak/Laravel-SMS.svg)](https://gitter.im/Pezhvak/Laravel-SMS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Laravel SMS Service Provider
 
 ## Installation
